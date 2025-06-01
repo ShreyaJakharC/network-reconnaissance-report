@@ -1,4 +1,4 @@
-# network-reconnaissance-report
+# Network Reconnaissance Report
 
 ## Overview
 This repository contains Project 2 for CSCI-UA.0480 (Intro to Security & Cryptography, Fall 2024). The assignment performs network reconnaissance on three HTTPS domains (`netflix.com`, `eff.org`, `india.gov.in`) to compare their security configurations, including WHOIS data, DNS records, traceroute paths, open ports, and TLS/SSL certificate details.
